@@ -1,0 +1,6 @@
+api:
+  finnhub_key: "d472ci1r01qh8nnapkfgd472ci1r01qh8nnapkg0"
+
+kafka:
+  broker: "localhost:9092"
+  topic: "finance_topic"
